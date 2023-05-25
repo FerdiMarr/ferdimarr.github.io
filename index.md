@@ -7,8 +7,8 @@ I'm a PhD student in Economics and Finance at the [Economics Department](https:/
 
 My research interests focus on Financial Economics.
 
-#{% if site.show_excerpts %}
-  #{% include home.html %}
-#{% else %}
-  #{% include archive.html title="Posts" %}
-#{% endif %}
+# {% if site.show_excerpts %}
+  # {% include home.html %}
+# {% else %}
+  # {% include archive.html title="Posts" %}
+# {% endif %}
