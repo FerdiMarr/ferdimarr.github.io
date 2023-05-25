@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {url: "\CV", title: "Vitae" }
+  - {url: "CV FERDINANDO MARRAZZA v8- ENG.pdf", title: "Vitae" }
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
