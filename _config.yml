@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ferdinando.marrazza@univr.it"}
   - {title: Github, icon: github, url: "https://github.com/ferdimarr"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ferdymarr"}
+  - {title: Linkedin, icon: linkedin, url: "linkedin.com/in/ferdinando-marrazza-492913138"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
