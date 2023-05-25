@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Research"
 ---
 Check my [Google Scholar](https://scholar.google.com/citations?user=2W6zVasAAAAJ&hl=en) page.
